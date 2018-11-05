@@ -7,7 +7,7 @@ add a new branch is very fast
 4, git add <file>
 5, git commit -m "something  tags"
 6, git checkout master
-Î, git merge dev
+7, git merge dev
 
 that's all
-creat a new branch is quick & simple.
+creat a new branch is quick and simple.
