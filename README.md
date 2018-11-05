@@ -10,3 +10,4 @@ add a new branch is very fast
 Î, git merge dev
 
 that's all
+creat a new branch is quick & simple.
