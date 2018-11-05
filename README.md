@@ -10,4 +10,5 @@ add a new branch is very fast
 7, git merge dev
 
 ...
-fix a bug
+fix two bugs
+fix another bug
