@@ -9,3 +9,5 @@ add a new branch is very fast
 6, git checkout master
 7, git merge dev
 
+...
+fix a bug
