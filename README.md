@@ -9,8 +9,3 @@ add a new branch is very fast
 6, git checkout master
 7, git merge dev
 
-that's all
-creat a new branch is quick and simple.
-
-this is another test
-to check whether or not show the details
